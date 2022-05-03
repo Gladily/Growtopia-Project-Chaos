@@ -3,10 +3,10 @@
 **Hey everyone !**
 
 
- i'm working on a multibotting / networking internal software called Project Chaos.
+ i'm working on a multibotting / networking internal software for Growtopia called Project Chaos.
 
 
-the progress made in the app so far is so great and so good and going as planned.
+the progress made in the app so far is so great and so good and going as planned, the multibot system in the app would be dominate and real game changing.
 
 one of the features of the app is that unlike other multibotting softwares it would allow unlimited bot connections saving you A LOT of money spent on rdp's.
 
