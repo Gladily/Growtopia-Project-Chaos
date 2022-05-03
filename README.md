@@ -30,5 +30,7 @@ the progress might be a bit slow as i'm the only one working. but if i felt that
 i'll have a discord server down below and i'll documentate every bit of progress, post screenshots, release demo versions for the ones who bought the app before its released, and more deatailed info about the software and the features.
 
 you can join the server to put down your suggestions or see the progress made.
-feel free to join!!``` 
+feel free to join!!
+
+https://discord.gg/hKbRbjk7F3
 
