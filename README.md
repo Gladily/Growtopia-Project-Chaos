@@ -13,7 +13,7 @@ one of the features of the app is that unlike other multibotting softwares it wo
 also it would have a proxy within the program to help the client enter securely and avoid having your ip banned.
 
 the app would have many other great features, like multiple internal cheats, pathfinding, lua executor, auto surgery, spamming and automsg, cid creator,
-item library, growscan built in the program, advanced multibotting and internal client based farming, and its own Voice Activated A.I Assistant [ not sure about this one yet. ]
+item library, growscan built in the program, advanced multibotting and internal client based autofarming, and its own Voice Activated A.I Assistant [ not sure about this one yet. ]
 
 and many other features within 1 app. the current work on the app is designing and planning, testing and updating each feature on its own till its close to being perfect
 
@@ -26,6 +26,8 @@ but it wont be more than 10 dls and definitely way less than that for a month li
 as for the permanent price for the app. not quite sure about this one yet. but something hopefully fair for both of us.
 
 the progress might be a bit slow as i'm the only one working. but if i felt that the app is ready enough, it'll be released in an uncompleted shape and will be updated daily
+
+one of the exciting features is that unlike other autofarm and spam applications, this one is internal memory based and networking based making smarter and more advanced.
 
 i'll have a discord server down below and i'll documentate every bit of progress, post screenshots, release demo versions for the ones who bought the app before its released, and more deatailed info about the software and the features.
 
