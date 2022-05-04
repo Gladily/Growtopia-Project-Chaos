@@ -34,4 +34,4 @@ i'll have a discord server down below and i'll documentate every bit of progress
 you can join the server to put down your suggestions or see the progress made.
 feel free to join!!
 
-https://discord.gg/Kc4czC3kqD
+# **https://discord.gg/Kc4czC3kqD**
