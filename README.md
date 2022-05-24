@@ -35,3 +35,7 @@ you can join the server to put down your suggestions or see the progress made.
 feel free to join!!
 
 # **https://discord.gg/Kc4czC3kqD**
+
+![Screenshot 2022-05-24 124527](https://user-images.githubusercontent.com/100718235/170004911-01352ac0-f8ed-425a-ab0b-f1662e386316.png)
+
+
